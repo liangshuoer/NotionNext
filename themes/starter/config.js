@@ -296,30 +296,17 @@ const CONFIG = {
     {
       TITLE: 'xiaohan',
       LINK_GROUP: [
-        { TITLE: 'bilibil', URL: '' },
-        { TITLE: '', URL: '' },
-        {
-          TITLE: 'YOUTUBE',
-          URL: ''
-        },
-        {
-          TITLE: 'GITHUB',
-          URL: ''
-        }
+        {TITLE: 'bilibil', URL: '' },
+        {TITLE: 'YOUTUBE',URL: ''},
+        {TITLE: 'GITHUB',URL: ''}
       ]
     },
     {
       TITLE: 'liangshuoer',
       LINK_GROUP: [
-        {
-          TITLE: 'bilibili',URL: ''
-        },
-        {
-          TITLE: 'YOUTUBE',URL: ''
-        },
-        {
-          TITLE: 'GITHUB', URL: ''
-        }
+        {TITLE: 'bilibili',URL: ''},
+        {TITLE: 'YOUTUBE',URL: ''},
+        {TITLE: 'GITHUB', URL: ''}
       ]
     },
     {

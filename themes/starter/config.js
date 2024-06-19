@@ -294,7 +294,7 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: '关注我们',
+      TITLE: '',
       LINK_GROUP: [
         { TITLE: '', URL: '' },
         { TITLE: '', URL: '' },
@@ -312,36 +312,36 @@ const CONFIG = {
       TITLE: 'liangshuoer',
       LINK_GROUP: [
         {
-          TITLE: 'BILIBILI',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          TITLE: 'bilibili',URL: ''
         },
         {
-          TITLE: 'YOUTUBE',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          TITLE: 'YOUTUBE',URL: ''
         },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+        {
+          TITLE: 'GITHUB', URL: ''
+        }
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: 'xiaohan',
       LINK_GROUP: [
         {
-          TITLE: 'Notion开始写作',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: 'bilibil',
+          URL: ''
         },
         {
-          TITLE: '快捷键提升效率',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: 'YOUTUBE',
+          URL: ''
         },
         {
-          TITLE: '中国大陆使用Notion',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          TITLE: 'GITHUB',
+          URL: ''
         }
       ]
     }
   ],
 
-  STARTER_FOOTER_BLOG_LATEST_TITLE: '最新文章',
+ // STARTER_FOOTER_BLOG_LATEST_TITLE: '最新文章',
 
   STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
   STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',

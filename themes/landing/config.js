@@ -7,7 +7,7 @@ const CONFIG = {
   LANDING_HEADER_BUTTON_2_URL: 'https://blog.tangly1024.com/',
 
   // 首页大图英雄板块
-  LANDING_HERO_TITLE_1: 'Liangshuoer',
+  LANDING_HERO_TITLE_1: 'm.liangshuoer.cn',
   LANDING_HERO_P_1: '良朔&晓涵的存储与分享中心',
   LANDING_HERO_BUTTON_1_TEXT: '主入口',
   LANDING_HERO_BUTTON_1_LINK: 'http://www.liangshuoer.cn:5244',

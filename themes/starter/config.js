@@ -10,7 +10,7 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: 'Liangshuoer&xiaohan的       记录、分享、存储中心', // 英雄区文字
+  STARTER_HERO_TITLE_1: '良朔&晓涵的记录、分享、存储中心', // 英雄区文字
   STARTER_HERO_TITLE_2: 'm.liangshuoer.cn', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: 'nas主入口', // 英雄区按钮

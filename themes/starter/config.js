@@ -30,28 +30,27 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: 'download', // 特性
-  STARTER_FEATURE_TEXT_1: '本站提供各类常用安装资源', // 特性
-  STARTER_FEATURE_TEXT_2:
-    '良朔&晓涵在此免费提供各类别常用资源下载，资源收录来源干净、无广告。为保证本站不被滥用，如有需要请联系我们索要密码。', // 特性
+  STARTER_FEATURE_TITLE: 'Download', // 特性
+  STARTER_FEATURE_TEXT_1: '各类常用资源下载', // 特性
+  STARTER_FEATURE_TEXT_2:'良朔&晓涵在此免费提供各类别常用资源下载，资源收录来源干净、无广告。为保证本站不被滥用，如有需要请联系我们索要密码。', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '日常&办公&影音编辑', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '提供常用软件、office、影音编辑、梯子等资源', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '提供常用软件、office、影音编辑、梯子等软件及资源', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '下载入口', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'http://www.lianshuoer.cn:5244', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '电工&电子&机械', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '提供电工&电子类专业软件及各类资源', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '提供电工&电子&机械类专业软件及相关资源', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '下载入口', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:'http://www.lianshuoer.cn:5244', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '计算机&人工智能', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '提供计算机编程&人工智能相关软件及资源', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '提供计算机编程&人工智能类相关软件及相关资源', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '下载入口', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'http://www.lianshuoer.cn:5244', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '操作系统', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '提供Windows&lunux&nas&ros等系统类镜像文件及资源', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '提供Windows&lunux&nas&ros等系统镜像文件及相关资源', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '下载入口', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: 'http://www.lianshuoer.cn:5244', // 特性4
 

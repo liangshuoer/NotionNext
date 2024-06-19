@@ -294,16 +294,16 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: '',
+      TITLE: 'xiaohan',
       LINK_GROUP: [
-        { TITLE: '', URL: '' },
+        { TITLE: 'bilibil', URL: '' },
         { TITLE: '', URL: '' },
         {
-          TITLE: '',
+          TITLE: 'YOUTUBE',
           URL: ''
         },
         {
-          TITLE: '',
+          TITLE: 'GITHUB',
           URL: ''
         }
       ]
@@ -323,18 +323,18 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: 'xiaohan',
+      TITLE: '',
       LINK_GROUP: [
         {
-          TITLE: 'bilibil',
+          TITLE: '',
           URL: ''
         },
         {
-          TITLE: 'YOUTUBE',
+          TITLE: '',
           URL: ''
         },
         {
-          TITLE: 'GITHUB',
+          TITLE: '',
           URL: ''
         }
       ]

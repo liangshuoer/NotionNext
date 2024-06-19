@@ -22,11 +22,11 @@ const CONFIG = {
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
-  STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
-  STARTER_NAV_BUTTON_1_URL: '/signin',
+  //STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
+  //STARTER_NAV_BUTTON_1_URL: '/signin',
 
-  STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
-  STARTER_NAV_BUTTON_2_URL: '/signup',
+  //STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
+  //STARTER_NAV_BUTTON_2_URL: '/signup',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
@@ -108,7 +108,7 @@ const CONFIG = {
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
   // 首页用户测评区块
-  STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
+  STARTER_TESTIMONIALS_ENABLE: false, // 测评区块开关
   STARTER_TESTIMONIALS_TITLE: '用户反馈',
   STARTER_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
   STARTER_TESTIMONIALS_TEXT_2:
@@ -194,6 +194,16 @@ const CONFIG = {
   STARTER_FAQ_4_ANSWER:
     '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
 
+
+  // 博客文章区块
+  STARTER_BLOG_ENABLE: true, // 首页博文区块开关
+  STARTER_BLOG_TITLE: '我们的博客',
+  STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
+  STARTER_BLOG_TEXT_1: '最近的新闻',
+  STARTER_BLOG_TEXT_2:'这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
+
+
+ 
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
   STARTER_TEAM_TITLE: '团队成员',
@@ -226,13 +236,7 @@ const CONFIG = {
     }
   ],
 
-  // 博客文章区块
-  STARTER_BLOG_ENABLE: true, // 首页博文区块开关
-  STARTER_BLOG_TITLE: '我们的博客',
-  STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
-  STARTER_BLOG_TEXT_1: '最近的新闻',
-  STARTER_BLOG_TEXT_2:
-    '这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
+
 
   // 联系模块
   STARTER_CONTACT_ENABLE: false, // 联系模块开关

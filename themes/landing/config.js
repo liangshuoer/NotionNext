@@ -7,11 +7,11 @@ const CONFIG = {
   LANDING_HEADER_BUTTON_2_URL: 'https://blog.tangly1024.com/',
 
   // 首页大图英雄板块
-  LANDING_HERO_TITLE_1: 'NotionNext',
-  LANDING_HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
-  LANDING_HERO_BUTTON_1_TEXT: '开始体验',
+  LANDING_HERO_TITLE_1: 'Liangshuoer',
+  LANDING_HERO_P_1: '良朔&晓涵的存储与分享中心',
+  LANDING_HERO_BUTTON_1_TEXT: '主入口',
   LANDING_HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
-  LANDING_HERO_BUTTON_2_TEXT: '了解更多',
+  LANDING_HERO_BUTTON_2_TEXT: '访客入口',
   LANDING_HERO_BUTTON_2_LINK: 'https://docs.tangly1024.com/about',
   LANDING_HERO_VIDEO_IMAGE: '/images/home.png',
   //   HERO_VIDEO_URL: '/videos/video.mp4',

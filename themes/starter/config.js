@@ -289,7 +289,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '对世界保持好奇',
+  STARTER_FOOTER_SLOGAN: '关注订阅我们',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [

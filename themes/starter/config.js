@@ -30,51 +30,49 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '特性', // 特性
-  STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
+  STARTER_FEATURE_TITLE: 'download', // 特性
+  STARTER_FEATURE_TEXT_1: '本站提供各类常用安装资源', // 特性
   STARTER_FEATURE_TEXT_2:
-    'NotionNext的愿景是帮助您简单、无感知地稳定地搭建自己的网站，放大品牌的价值。 ', // 特性
+    '良朔&晓涵在此免费提供各类别常用资源下载，资源收录来源干净、无广告。为保证本站不被滥用，如有需要请联系我们索要密码。', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '日常&办公&影音编辑', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '提供常用软件、office、影音编辑、梯子等资源', // 特性1
+  STARTER_FEATURE_1_BUTTON_TEXT: '下载入口', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'http://www.lianshuoer.cn:5244', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
-  STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '电工&电子&机械', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '提供电工&电子类专业软件及各类资源', // 特性2
+  STARTER_FEATURE_2_BUTTON_TEXT: '下载入口', // 特性2
+  STARTER_FEATURE_2_BUTTON_URL:'http://www.lianshuoer.cn:5244', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '计算机&人工智能', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '提供计算机编程&人工智能相关软件及资源', // 特性3
+  STARTER_FEATURE_3_BUTTON_TEXT: '下载入口', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'http://www.lianshuoer.cn:5244', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '操作系统', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '提供Windows&lunux&nas&ros等系统类镜像文件及资源', // 特性4
+  STARTER_FEATURE_4_BUTTON_TEXT: '下载入口', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'http://www.lianshuoer.cn:5244', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '一套轻量实用的建站解决方案',
+  STARTER_ABOUT_TITLE: '超海量影视资源',
   STARTER_ABOUT_TEXT:
-    'NotionNext的愿景是帮助非技术人员的小白，最低成本、最快速地搭建自己的网站，帮助您将自己的产品与故事高效地传达给世界。 <br /> <br /> 功能强大的Notion笔记，简单快速的Vercel托管平台，组成一个简单的网站',
-  STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
+    '良朔&晓涵免费提供超过10W+的海量高清蓝光电影、电视剧、动漫资源，内容丰富，更新及时。 <br /> <br /> *服务基于小雅ALIST，如有需要请联系我们*',
+  STARTER_ABOUT_BUTTON_TEXT: '影音入口',
+  STARTER_ABOUT_BUTTON_URL: 'http://www.lianshuo.cn:5244',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: '7000+',
-  STARTER_ABOUT_TIPS_2: '博客站点',
-  STARTER_ABOUT_TIPS_3: '正在线上运行',
+  STARTER_ABOUT_TIPS_1: '10W+',
+  STARTER_ABOUT_TIPS_2: '高清资源',
+  STARTER_ABOUT_TIPS_3: '在线播放，流畅观影',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: false, // 价格区块开关
   STARTER_PRICING_TITLE: '价格表',
   STARTER_PRICING_TEXT_1: '很棒的定价计划',
-  STARTER_PRICING_TEXT_2:
-    '我们制定了灵活的付费模式，您可以按需选择。（NotionNext免费开源，这里仅演示产品订阅付费功能，请勿下单购买！）',
+  STARTER_PRICING_TEXT_2:'我们制定了灵活的付费模式，您可以按需选择。（NotionNext免费开源，这里仅演示产品订阅付费功能，请勿下单购买！）',
 
   STARTER_PRICING_1_TITLE: '入门版',
   STARTER_PRICING_1_PRICE: '19.9',

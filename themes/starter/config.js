@@ -25,7 +25,7 @@ const CONFIG = {
   //STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
   //STARTER_NAV_BUTTON_1_URL: '/signin',
 
-  //STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
+  //STARTER_NAV_BUTTON_2_TEXT: '',
   //STARTER_NAV_BUTTON_2_URL: '/signup',
 
   // 特性区块
@@ -194,10 +194,10 @@ const CONFIG = {
 
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
-  STARTER_BLOG_TITLE: '我们的博客',
+  STARTER_BLOG_TITLE: 'BLOG',
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
-  STARTER_BLOG_TEXT_1: '最近的新闻',
-  STARTER_BLOG_TEXT_2:'这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
+  STARTER_BLOG_TEXT_1: '良朔&晓涵的BLOG',
+  STARTER_BLOG_TEXT_2:'这里会发布一些良朔&晓涵的出游PLOG、随想等内容',
 
 
  

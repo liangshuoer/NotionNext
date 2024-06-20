@@ -195,9 +195,9 @@ const CONFIG = {
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
   STARTER_BLOG_TITLE: 'BLOG',
-  STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
+  STARTER_BLOG_COUNT: 4, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: '良朔&晓涵的BLOG',
-  STARTER_BLOG_TEXT_2:'这里会发布一些良朔&晓涵的出游PLOG、随想等内容',
+  STARTER_BLOG_TEXT_2:'这里会发布一些良朔&晓涵的日常LOG、随想、笔记等内容',
 
 
  

@@ -37,22 +37,22 @@ const CONFIG = {
   STARTER_FEATURE_1_TITLE_1: '日常&办公&影音编辑', // 特性1
   STARTER_FEATURE_1_TEXT_1: '提供常用软件、office、影音编辑、梯子等软件及资源', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '下载入口', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'http://www.lianshuoer.cn:5244', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'http://www.liangshuoer.cn:5244', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '电工&电子&机械', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '提供电工&电子&机械类的专业软件及相关资源', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '提供电工&电子&机械行业相关的常用专业软件及相关资源', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '下载入口', // 特性2
-  STARTER_FEATURE_2_BUTTON_URL:'http://www.lianshuoer.cn:5244', // 特性2
+  STARTER_FEATURE_2_BUTTON_URL:'http://www.liangshuoer.cn:5244', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '计算机&人工智能', // 特性3
   STARTER_FEATURE_3_TEXT_1: '提供计算机编程&人工智能类的专业软件及相关资源', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '下载入口', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'http://www.lianshuoer.cn:5244', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'http://www.liangshuoer.cn:5244', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '操作系统', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '提供Windows&lunux&nas&ros等系统镜像文件及相关资源', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '提供Windows&linux&nas&等系统镜像文件及相关资源', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '下载入口', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'http://www.lianshuoer.cn:5244', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'http://www.liangshuoer.cn:5244', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
@@ -60,7 +60,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     '良朔&晓涵免费提供超过10W+的海量高清蓝光电影、电视剧、动漫资源，内容丰富，更新及时。 <br /> <br /> *服务基于小雅ALIST*',
   STARTER_ABOUT_BUTTON_TEXT: '影音入口',
-  STARTER_ABOUT_BUTTON_URL: 'http://www.lianshuoer.cn:5244',
+  STARTER_ABOUT_BUTTON_URL: 'http://www.liangshuoer.cn:5244',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '10W+',

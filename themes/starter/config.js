@@ -31,8 +31,8 @@ const CONFIG = {
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: 'Download', // 特性
-  STARTER_FEATURE_TEXT_1: '各类常用资源下载', // 特性
-  STARTER_FEATURE_TEXT_2:'良朔&晓涵在此免费提供各类别常用资源下载，资源收录来源干净、无广告。为保证本站不被滥用，如有需要请联系我们索要密码。', // 特性
+  STARTER_FEATURE_TEXT_1: '常用资源下载', // 特性
+  STARTER_FEATURE_TEXT_2:'良朔&晓涵在此免费提供各类常用资源的下载，资源收录来源保证新鲜、干净、无广告，可放心使用。', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '日常&办公&影音编辑', // 特性1
   STARTER_FEATURE_1_TEXT_1: '提供常用软件、office、影音编辑、梯子等软件及资源', // 特性1
@@ -40,12 +40,12 @@ const CONFIG = {
   STARTER_FEATURE_1_BUTTON_URL: 'http://www.lianshuoer.cn:5244', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '电工&电子&机械', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '提供电工&电子&机械类专业软件及相关资源', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '提供电工&电子&机械类的专业软件及相关资源', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '下载入口', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:'http://www.lianshuoer.cn:5244', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '计算机&人工智能', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '提供计算机编程&人工智能类相关软件及相关资源', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '提供计算机编程&人工智能类的专业软件及相关资源', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '下载入口', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'http://www.lianshuoer.cn:5244', // 特性3
 
@@ -56,11 +56,11 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '超海量影视资源',
+  STARTER_ABOUT_TITLE: '海量影视资源',
   STARTER_ABOUT_TEXT:
-    '良朔&晓涵免费提供超过10W+的海量高清蓝光电影、电视剧、动漫资源，内容丰富，更新及时。 <br /> <br /> *服务基于小雅ALIST，如有需要请联系我们*',
+    '良朔&晓涵免费提供超过10W+的海量高清蓝光电影、电视剧、动漫资源，内容丰富，更新及时。 <br /> <br /> *服务基于小雅ALIST*',
   STARTER_ABOUT_BUTTON_TEXT: '影音入口',
-  STARTER_ABOUT_BUTTON_URL: 'http://www.lianshuo.cn:5244',
+  STARTER_ABOUT_BUTTON_URL: 'http://www.lianshuoer.cn:5244',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '10W+',
@@ -170,7 +170,7 @@ const CONFIG = {
   ],
 
   //   FAQ 常见问题模块
-  STARTER_FAQ_ENABLE: true, // 常见问题模块开关
+  STARTER_FAQ_ENABLE: false, // 常见问题模块开关
   STARTER_FAQ_TITLE: '常见问题解答',
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
